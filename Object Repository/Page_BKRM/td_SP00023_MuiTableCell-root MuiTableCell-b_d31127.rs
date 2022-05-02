@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_SP00023_MuiTableCell-root MuiTableCell-b_d31127</name>
+   <tag></tag>
+   <elementGuidId>a81ec5c8-50fa-4a17-aca2-2330dbccef0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.MuiTableCell-root.MuiTableCell-body.MuiTableCell-alignRight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div[2]/div/div/div/div/div/div[2]/div/table/tbody/tr/td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>393ade1b-05f6-41cc-81f1-da8e8b3b0dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight</value>
+      <webElementGuid>7a87e710-c2d2-4b02-921b-d8a59002647a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root jss771&quot;]/div[@class=&quot;jss777&quot;]/main[@class=&quot;jss783&quot;]/div[@class=&quot;MuiBox-root jss830 jss785 jss787&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-8&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root jss831 MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiBox-root jss849&quot;]/div[@class=&quot;MuiBox-root jss850&quot;]/div[@class=&quot;MuiPaper-root jss861 MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiTableContainer-root&quot;]/table[@class=&quot;MuiTable-root MuiTable-stickyHeader&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root MuiTableRow-hover&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight&quot;]</value>
+      <webElementGuid>64a813fb-d837-4d1f-8881-dc5d1e4ad8a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div[2]/div/div/div/div/div/div[2]/div/table/tbody/tr/td[5]</value>
+      <webElementGuid>7693c345-ef2a-4480-aed1-fdc8cd909e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SP00023'])[1]/following::td[3]</value>
+      <webElementGuid>7b1cbf6a-6a8b-4c29-a027-b5fa62a36ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thành tiền'])[1]/following::td[5]</value>
+      <webElementGuid>9d36e421-92cb-487e-9f50-6ade47ee8d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chi nhánh'])[2]/preceding::td[3]</value>
+      <webElementGuid>0077b085-68d0-4b84-a399-1eca8aacd693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng SL sản phẩm (1)'])[1]/preceding::td[3]</value>
+      <webElementGuid>47ff603f-394d-4605-b6b9-eaf734af6edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>96b39646-a612-4ab3-a1ca-4e50430fbd80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

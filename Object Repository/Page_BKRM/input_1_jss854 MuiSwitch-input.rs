@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_1_jss854 MuiSwitch-input</name>
+   <tag></tag>
+   <elementGuidId>b00b0b8e-72b7-4f78-8c7c-7abcded56be1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.jss854.MuiSwitch-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fde36c37-2c54-4bca-93ac-776498eb1ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss854 MuiSwitch-input</value>
+      <webElementGuid>24d595b5-3c10-430c-9b38-bc9f9a6b5e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>d4421f77-4439-482a-85a3-02fabbf1fabb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root jss771&quot;]/div[@class=&quot;jss777&quot;]/main[@class=&quot;jss783&quot;]/div[@class=&quot;MuiBox-root jss830 jss785 jss787&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-8&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root jss831 MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiBox-root jss849&quot;]/div[@class=&quot;MuiBox-root jss850&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between&quot;]/div[@class=&quot;MuiGrid-root&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item&quot;]/label[@class=&quot;MuiFormControlLabel-root&quot;]/span[@class=&quot;MuiSwitch-root MuiSwitch-sizeSmall&quot;]/span[@class=&quot;MuiButtonBase-root MuiIconButton-root jss851 MuiSwitch-switchBase MuiSwitch-colorPrimary jss852 Mui-checked&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/input[@class=&quot;jss854 MuiSwitch-input&quot;]</value>
+      <webElementGuid>caf27a49-9dbe-4b44-8316-8595df8c94b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>3f06de28-c2c5-460b-87fe-4522a26c2885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div[2]/div/div/div/div/div/div/div[2]/div/div/label/span/span/span/input</value>
+      <webElementGuid>84d4d91f-dee9-40d3-9d7c-b72b3e94a368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/input</value>
+      <webElementGuid>ecf79211-fb97-446f-93f8-313595c6daf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>f6b420fd-ea3c-427b-bbca-a88244ddabd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
